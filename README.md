@@ -1,6 +1,6 @@
 # 2020spring_final_project_source_code
 
-Test result and comments:
+All projects are tested with their requirements files, and test results and comments are following:
 
 *tensorflow: 
 
