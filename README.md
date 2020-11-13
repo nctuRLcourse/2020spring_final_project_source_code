@@ -3,6 +3,7 @@
 Test result and comments:
 
 *tensorflow: 
+
   *'0516094 資工系  DCP 張維哲_614106_assignsubmission_file_'  Seem OK, but requirements version need to be fixed a lots
   
   *'0616215 資工系  DCP 蘇信恩_614143_assignsubmission_file_'  OK
@@ -20,6 +21,7 @@ Test result and comments:
   *'0856601 多媒體所  ILE 黃兆宇_614129_assignsubmission_file_'    use " tensorflow 1.14.1 -->  syntax error    
 
 *torch: 
+
   *'0686027 資科工博  IOC 柴俊瑜_614099_assignsubmission_file_'  OK, need mujoco-py
   
   *'0756172 資科工碩  IOC 鍾嘉峻_614104_assignsubmission_file_'  OK, need mujoco-py and visdom
@@ -33,6 +35,7 @@ Test result and comments:
   *'0880813 電資博士學  ECS 馬羅曼_614102_assignsubmission_file_'  OK
 
 *juptor
+
   *'0845226 電機系  UEE 杜尚錡_614105_assignsubmission_file_' 
   
   *'0856724 數據所  IDS 洪偉_614109_assignsubmission_file_'  
@@ -40,4 +43,5 @@ Test result and comments:
   *'0856510 網工所  IOE 賴暐倫_614133_assignsubmission_file_' 
 
 *other: 
+
   *'0856160 資科工碩  IOC 洪鈺恆_614119_assignsubmission_file_' No file.. (submit by others)
